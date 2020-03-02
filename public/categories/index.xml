@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Scavenger Labs</title>
+    <link>https://efau.flossmanuals.net/categories/</link>
+    <description>Recent content in Categories on Scavenger Labs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>admin@scavengerlabs.org.uk (EFAU)</managingEditor>
+    <webMaster>admin@scavengerlabs.org.uk (EFAU)</webMaster>
+    <lastBuildDate>Wed, 23 May 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://efau.flossmanuals.net/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>aliquam auctor</title>
+      <link>https://efau.flossmanuals.net/categories/aliquam-auctor/</link>
+      <pubDate>Wed, 23 May 2018 00:00:00 +0000</pubDate>
+      <author>admin@scavengerlabs.org.uk (EFAU)</author>
+      <guid>https://efau.flossmanuals.net/categories/aliquam-auctor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>do</title>
+      <link>https://efau.flossmanuals.net/categories/do/</link>
+      <pubDate>Wed, 23 May 2018 00:00:00 +0000</pubDate>
+      <author>admin@scavengerlabs.org.uk (EFAU)</author>
+      <guid>https://efau.flossmanuals.net/categories/do/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>facilisi odio</title>
+      <link>https://efau.flossmanuals.net/categories/facilisi-odio/</link>
+      <pubDate>Fri, 18 May 2018 00:00:00 +0000</pubDate>
+      <author>admin@scavengerlabs.org.uk (EFAU)</author>
+      <guid>https://efau.flossmanuals.net/categories/facilisi-odio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>id</title>
+      <link>https://efau.flossmanuals.net/categories/id/</link>
+      <pubDate>Fri, 18 May 2018 00:00:00 +0000</pubDate>
+      <author>admin@scavengerlabs.org.uk (EFAU)</author>
+      <guid>https://efau.flossmanuals.net/categories/id/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>diam aliqua</title>
+      <link>https://efau.flossmanuals.net/categories/diam-aliqua/</link>
+      <pubDate>Sat, 06 Jan 2018 00:00:00 +0000</pubDate>
+      <author>admin@scavengerlabs.org.uk (EFAU)</author>
+      <guid>https://efau.flossmanuals.net/categories/diam-aliqua/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fringilla</title>
+      <link>https://efau.flossmanuals.net/categories/fringilla/</link>
+      <pubDate>Sat, 06 Jan 2018 00:00:00 +0000</pubDate>
+      <author>admin@scavengerlabs.org.uk (EFAU)</author>
+      <guid>https://efau.flossmanuals.net/categories/fringilla/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

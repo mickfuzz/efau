@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>bigimg on Scavenger Labs</title>
+    <link>https://efau.flossmanuals.net/tags/bigimg/</link>
+    <description>Recent content in bigimg on Scavenger Labs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>admin@scavengerlabs.org.uk (EFAU)</managingEditor>
+    <webMaster>admin@scavengerlabs.org.uk (EFAU)</webMaster>
+    <lastBuildDate>Tue, 07 Mar 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://efau.flossmanuals.net/tags/bigimg/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Big Image Sample</title>
+      <link>https://efau.flossmanuals.net/post/2017-03-07-bigimg-sample/</link>
+      <pubDate>Tue, 07 Mar 2017 00:00:00 +0000</pubDate>
+      <author>admin@scavengerlabs.org.uk (EFAU)</author>
+      <guid>https://efau.flossmanuals.net/post/2017-03-07-bigimg-sample/</guid>
+      <description>&lt;p&gt;The image banners at the top of the page are refered to as &amp;ldquo;bigimg&amp;rdquo; in this theme. They are optional, and one more more can be specified. If more than one is specified, the images rotate every 10 seconds. In the front matter, bigimgs are specified using an array of hashes.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
