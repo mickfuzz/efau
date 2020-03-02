@@ -7,10 +7,22 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>admin@scavengerlabs.org.uk (EFAU)</managingEditor>
     <webMaster>admin@scavengerlabs.org.uk (EFAU)</webMaster>
-    <lastBuildDate>Wed, 23 May 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Feb 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://efau.flossmanuals.net/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Test with EFAU content</title>
+      <link>https://efau.flossmanuals.net/post/2_test_efau/</link>
+      <pubDate>Thu, 20 Feb 2020 00:00:00 +0000</pubDate>
+      <author>admin@scavengerlabs.org.uk (EFAU)</author>
+      <guid>https://efau.flossmanuals.net/post/2_test_efau/</guid>
+      <description>You can write regular markdown here and Hugo will automatically convert it to a nice webpage. I strongly encourage you to take 5 minutes to learn how to write in markdown - it&amp;rsquo;ll teach you how to transform regular text into bold/italics/headings/tables/etc.
+EARTH FIRST! action update No compromise!
+number 4 June 1993 20p
+The Debt Crisis 10th May Three banks in Leicester were the focus for protests about the High Street Banks’ involvement in the continuing 3rd World Debt Crisis.</description>
+    </item>
     
     <item>
       <title>vestibulum vitae dictum aliqua phasellus magnis at</title>
@@ -148,6 +160,18 @@ Here is a secondary heading Here&amp;rsquo;s a useless table:
     
     <item>
       <title>Test markdown</title>
+      <link>https://efau.flossmanuals.net/post/1_template/</link>
+      <pubDate>Fri, 20 Feb 2015 00:00:00 +0000</pubDate>
+      <author>admin@scavengerlabs.org.uk (EFAU)</author>
+      <guid>https://efau.flossmanuals.net/post/1_template/</guid>
+      <description>You can write regular markdown here and Hugo will automatically convert it to a nice webpage. I strongly encourage you to take 5 minutes to learn how to write in markdown - it&amp;rsquo;ll teach you how to transform regular text into bold/italics/headings/tables/etc.
+Here is some bold text
+Here is a secondary heading Here&amp;rsquo;s a useless table:
+   Number Next number Previous number     Five Six Four   Ten Eleven Nine   Seven Eight Six   Two Three One    How about a yummy crepe?</description>
+    </item>
+    
+    <item>
+      <title>Test markdown</title>
       <link>https://efau.flossmanuals.net/post/2015-02-20-test-markdown/</link>
       <pubDate>Fri, 20 Feb 2015 00:00:00 +0000</pubDate>
       <author>admin@scavengerlabs.org.uk (EFAU)</author>
@@ -202,6 +226,17 @@ Association football, more commonly known as football or soccer,[2] is a sport p
       <author>admin@scavengerlabs.org.uk (EFAU)</author>
       <guid>https://efau.flossmanuals.net/post/2015-01-04-first-post/</guid>
       <description>This is my first post, how exciting!</description>
+    </item>
+    
+    <item>
+      <title>First post!</title>
+      <link>https://efau.flossmanuals.net/post/2020-03-02-test-post/</link>
+      <pubDate>Mon, 05 Jan 2015 00:00:00 +0000</pubDate>
+      <author>admin@scavengerlabs.org.uk (EFAU)</author>
+      <guid>https://efau.flossmanuals.net/post/2020-03-02-test-post/</guid>
+      <description>EARTH FIRST! action update No compromise!
+number 4 June 1993 20p
+The Debt Crisis 10th May Three banks in Leicester were the focus for protests about the High Street Banks’ involvement in the continuing 3rd World Debt Crisis. About 60 activists dressed as chickens, parrots, tomatoes, and various other animals and vegetables wandered into Lloyds, Barclays and Midland and chained themselves inside the banks. Others handed out leaflets, fixed banners and banged drums.</description>
     </item>
     
     <item>

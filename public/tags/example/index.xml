@@ -7,10 +7,22 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>admin@scavengerlabs.org.uk (EFAU)</managingEditor>
     <webMaster>admin@scavengerlabs.org.uk (EFAU)</webMaster>
-    <lastBuildDate>Mon, 20 Mar 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Feb 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://efau.flossmanuals.net/tags/example/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Test with EFAU content</title>
+      <link>https://efau.flossmanuals.net/post/2_test_efau/</link>
+      <pubDate>Thu, 20 Feb 2020 00:00:00 +0000</pubDate>
+      <author>admin@scavengerlabs.org.uk (EFAU)</author>
+      <guid>https://efau.flossmanuals.net/post/2_test_efau/</guid>
+      <description>You can write regular markdown here and Hugo will automatically convert it to a nice webpage. I strongly encourage you to take 5 minutes to learn how to write in markdown - it&amp;rsquo;ll teach you how to transform regular text into bold/italics/headings/tables/etc.
+EARTH FIRST! action update No compromise!
+number 4 June 1993 20p
+The Debt Crisis 10th May Three banks in Leicester were the focus for protests about the High Street Banks’ involvement in the continuing 3rd World Debt Crisis.</description>
+    </item>
     
     <item>
       <title>Photoswipe Gallery Sample</title>
@@ -104,6 +116,18 @@ $$&lt;/p&gt;
       <pubDate>Fri, 20 Feb 2015 00:00:00 +0000</pubDate>
       <author>admin@scavengerlabs.org.uk (EFAU)</author>
       <guid>https://efau.flossmanuals.net/bundles/my-bundle-test/</guid>
+      <description>You can write regular markdown here and Hugo will automatically convert it to a nice webpage. I strongly encourage you to take 5 minutes to learn how to write in markdown - it&amp;rsquo;ll teach you how to transform regular text into bold/italics/headings/tables/etc.
+Here is some bold text
+Here is a secondary heading Here&amp;rsquo;s a useless table:
+   Number Next number Previous number     Five Six Four   Ten Eleven Nine   Seven Eight Six   Two Three One    How about a yummy crepe?</description>
+    </item>
+    
+    <item>
+      <title>Test markdown</title>
+      <link>https://efau.flossmanuals.net/post/1_template/</link>
+      <pubDate>Fri, 20 Feb 2015 00:00:00 +0000</pubDate>
+      <author>admin@scavengerlabs.org.uk (EFAU)</author>
+      <guid>https://efau.flossmanuals.net/post/1_template/</guid>
       <description>You can write regular markdown here and Hugo will automatically convert it to a nice webpage. I strongly encourage you to take 5 minutes to learn how to write in markdown - it&amp;rsquo;ll teach you how to transform regular text into bold/italics/headings/tables/etc.
 Here is some bold text
 Here is a secondary heading Here&amp;rsquo;s a useless table:
