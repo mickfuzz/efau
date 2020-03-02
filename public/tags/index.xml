@@ -31,6 +31,24 @@
     </item>
     
     <item>
+      <title>example</title>
+      <link>https://efau.flossmanuals.net/tags/example/</link>
+      <pubDate>Wed, 20 Feb 2019 00:00:00 +0000</pubDate>
+      <author>admin@scavengerlabs.org.uk (EFAU)</author>
+      <guid>https://efau.flossmanuals.net/tags/example/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>markdown</title>
+      <link>https://efau.flossmanuals.net/tags/markdown/</link>
+      <pubDate>Wed, 20 Feb 2019 00:00:00 +0000</pubDate>
+      <author>admin@scavengerlabs.org.uk (EFAU)</author>
+      <guid>https://efau.flossmanuals.net/tags/markdown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>aliquam incididunt</title>
       <link>https://efau.flossmanuals.net/tags/aliquam-incididunt/</link>
       <pubDate>Wed, 23 May 2018 00:00:00 +0000</pubDate>
@@ -94,15 +112,6 @@
     </item>
     
     <item>
-      <title>example</title>
-      <link>https://efau.flossmanuals.net/tags/example/</link>
-      <pubDate>Mon, 20 Mar 2017 00:00:00 +0000</pubDate>
-      <author>admin@scavengerlabs.org.uk (EFAU)</author>
-      <guid>https://efau.flossmanuals.net/tags/example/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>photoswipe</title>
       <link>https://efau.flossmanuals.net/tags/photoswipe/</link>
       <pubDate>Mon, 20 Mar 2017 00:00:00 +0000</pubDate>
@@ -135,15 +144,6 @@
       <pubDate>Tue, 08 Mar 2016 00:00:00 +0000</pubDate>
       <author>admin@scavengerlabs.org.uk (EFAU)</author>
       <guid>https://efau.flossmanuals.net/tags/code/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>markdown</title>
-      <link>https://efau.flossmanuals.net/tags/markdown/</link>
-      <pubDate>Fri, 20 Feb 2015 00:00:00 +0000</pubDate>
-      <author>admin@scavengerlabs.org.uk (EFAU)</author>
-      <guid>https://efau.flossmanuals.net/tags/markdown/</guid>
       <description></description>
     </item>
     

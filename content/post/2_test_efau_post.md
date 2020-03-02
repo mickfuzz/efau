@@ -12,7 +12,7 @@ You can write regular [markdown](http://markdowntutorial.com/) here and [Hugo](h
 
 **Another action is planned July 9th in Nottingham, **workshops on 8th July. Contact **LEAF** for further details on **0533 621 2317**. For information on the debt crisis contact Lloyds and Midland Boycott, c/o Manchester University Students Union, Oxford Road, Manchester, M13 9PR tel: 061 275 2930.
 
-![Digger](EFAU04-2.jpg)
+![Digger](/post/images/EFAU04-2.jpg)
 
 
 ## SKYE BRIDGE ACTION CAMP

@@ -39,6 +39,21 @@
   </url>
   
   <url>
+    <loc>https://efau.flossmanuals.net/tags/example/</loc>
+    <lastmod>2019-02-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://efau.flossmanuals.net/tags/markdown/</loc>
+    <lastmod>2019-02-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://efau.flossmanuals.net/post/1_template/</loc>
+    <lastmod>2019-02-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://efau.flossmanuals.net/categories/aliquam-auctor/</loc>
     <lastmod>2018-05-23T00:00:00+00:00</lastmod>
   </url>
@@ -124,11 +139,6 @@
   </url>
   
   <url>
-    <loc>https://efau.flossmanuals.net/tags/example/</loc>
-    <lastmod>2017-03-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://efau.flossmanuals.net/tags/photoswipe/</loc>
     <lastmod>2017-03-20T00:00:00+00:00</lastmod>
   </url>
@@ -179,17 +189,7 @@
   </url>
   
   <url>
-    <loc>https://efau.flossmanuals.net/tags/markdown/</loc>
-    <lastmod>2015-02-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://efau.flossmanuals.net/bundles/my-bundle-test/</loc>
-    <lastmod>2015-02-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://efau.flossmanuals.net/post/1_template/</loc>
     <lastmod>2015-02-20T00:00:00+00:00</lastmod>
   </url>
   
