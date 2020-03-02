@@ -1,28 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>example on Scavenger Labs</title>
+    <title>example on Earth First Action Update</title>
     <link>https://efau.flossmanuals.net/tags/example/</link>
-    <description>Recent content in example on Scavenger Labs</description>
+    <description>Recent content in example on Earth First Action Update</description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>admin@scavengerlabs.org.uk (EFAU)</managingEditor>
     <webMaster>admin@scavengerlabs.org.uk (EFAU)</webMaster>
-    <lastBuildDate>Thu, 20 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Mar 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://efau.flossmanuals.net/tags/example/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Test with EFAU content</title>
-      <link>https://efau.flossmanuals.net/post/2_test_efau/</link>
-      <pubDate>Thu, 20 Feb 2020 00:00:00 +0000</pubDate>
-      <author>admin@scavengerlabs.org.uk (EFAU)</author>
-      <guid>https://efau.flossmanuals.net/post/2_test_efau/</guid>
-      <description>You can write regular markdown here and Hugo will automatically convert it to a nice webpage. I strongly encourage you to take 5 minutes to learn how to write in markdown - it&amp;rsquo;ll teach you how to transform regular text into bold/italics/headings/tables/etc.
-EARTH FIRST! action update No compromise!
-number 4 June 1993 20p
-The Debt Crisis 10th May Three banks in Leicester were the focus for protests about the High Street Banks’ involvement in the continuing 3rd World Debt Crisis.</description>
-    </item>
     
     <item>
       <title>Photoswipe Gallery Sample</title>

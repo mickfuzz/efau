@@ -9,33 +9,33 @@
   
   <url>
     <loc>https://efau.flossmanuals.net/</loc>
-    <lastmod>2020-02-20T00:00:00+00:00</lastmod>
+    <lastmod>2020-02-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://efau.flossmanuals.net/tags/example/</loc>
-    <lastmod>2020-02-20T00:00:00+00:00</lastmod>
+    <loc>https://efau.flossmanuals.net/tags/action/</loc>
+    <lastmod>2020-02-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://efau.flossmanuals.net/tags/markdown/</loc>
-    <lastmod>2020-02-20T00:00:00+00:00</lastmod>
+    <loc>https://efau.flossmanuals.net/post/2_test_efau_post/</loc>
+    <lastmod>2020-02-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://efau.flossmanuals.net/tags/news/</loc>
+    <lastmod>2020-02-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://efau.flossmanuals.net/post/</loc>
-    <lastmod>2020-02-20T00:00:00+00:00</lastmod>
+    <lastmod>2020-02-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://efau.flossmanuals.net/tags/</loc>
-    <lastmod>2020-02-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://efau.flossmanuals.net/post/2_test_efau/</loc>
-    <lastmod>2020-02-20T00:00:00+00:00</lastmod>
+    <lastmod>2020-02-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -124,6 +124,11 @@
   </url>
   
   <url>
+    <loc>https://efau.flossmanuals.net/tags/example/</loc>
+    <lastmod>2017-03-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://efau.flossmanuals.net/tags/photoswipe/</loc>
     <lastmod>2017-03-20T00:00:00+00:00</lastmod>
   </url>
@@ -170,6 +175,11 @@
   
   <url>
     <loc>https://efau.flossmanuals.net/bundles/</loc>
+    <lastmod>2015-02-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://efau.flossmanuals.net/tags/markdown/</loc>
     <lastmod>2015-02-20T00:00:00+00:00</lastmod>
   </url>
   

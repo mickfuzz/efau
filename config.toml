@@ -1,7 +1,7 @@
 baseurl = "https://efau.flossmanuals.net"
 DefaultContentLanguage = "en"
 #DefaultContentLanguage = "ja"
-title = "Scavenger Labs"
+title = "Earth First Action Update"
 theme = "beautifulhugo"
 metaDataFormat = "yaml"
 pygmentsStyle = "trac"
@@ -15,7 +15,7 @@ pygmentsCodefencesGuessSyntax = true
 
 [Params]
 homeTitle = "Earth First Action Update" # Set a different text for the header on the home page
-#  subtitle = "EFAU subtitle text"
+  subtitle = "EFAU subtitle text"
   mainSections = ["post","posts"]
   logo = "img/avatar-icon.png" # Expecting square dimensions
   favicon = "img/favicon.ico"
@@ -46,7 +46,7 @@ homeTitle = "Earth First Action Update" # Set a different text for the header on
 
 [Author]
   name = "EFAU"
-  website = "scavengerlabs.org.uk"
+  website = "efau.flossmanuals.net"
   email = "admin@scavengerlabs.org.uk"
   facebook = "scavengerlabs"
   github = "flossmanuals"
@@ -74,10 +74,10 @@ homeTitle = "Earth First Action Update" # Set a different text for the header on
 #  weibo = "username"
 #  slack = "username"
 
-[[menu.main]]
-    name = "Bundles"
-    url = "bundles"
-    weight = 1
+#[[menu.main]]
+#    name = "Bundles"
+#    url = "bundles"
+#    weight = 1
 
 [[menu.main]]
     name = "About"
